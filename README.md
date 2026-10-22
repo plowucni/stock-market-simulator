@@ -1,6 +1,6 @@
 # Stock Market Simulator (CLI)
 
-A multi-asset financial market simulation engine developed in **C++17**. The project models a turn-based trading environment supporting stocks, government bonds, and cryptocurrencies with real-time portfolio revaluation and custom persistence.
+A multi-asset financial market simulation engine developed in **C++**. The project models a turn-based trading environment supporting stocks, government bonds, and cryptocurrencies with real-time portfolio revaluation and custom persistence.
 
 ## Key Features
 
